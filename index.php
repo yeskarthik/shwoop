@@ -15,13 +15,10 @@
 <body>
 
 <!-- Your form -->
-<form name="form" id="my-form">
-
-	<!-- Required field email -->
-	<input type="text" name="email" data-rule="required|email"/>
-
-	<input type="submit" value="Submit"/>
-
+<form action="upload.php" name="form" id="my-form" method="post" enctype="multipart/form-data">
+  Select image to upload:
+  <input type="file" name="fileToUpload" id="fileToUpload">
+  <input type="submit" value="Upload Image" name="submit">
 </form>
 
 <!-- Append the validator JS script -->

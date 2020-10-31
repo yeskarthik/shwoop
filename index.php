@@ -1,4 +1,6 @@
-<?php
+<html>
+	
+<body>
 
 <!-- Your form -->
 <form name="form" id="my-form">
@@ -19,3 +21,6 @@
 		return res;
 	});
 </script>
+	
+</body>
+</html>

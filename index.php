@@ -1,5 +1,5 @@
 <html>
-	<title>
+	<head>
 		<link rel="stylesheet" href="assets/css/tables.css">
 		<link rel="stylesheet" href="assets/css/layout.css">
 		<link rel="stylesheet" href="assets/css/forms.css">
@@ -11,7 +11,7 @@
 		<link rel="stylesheet" href="assets/codemirror/theme/monokai.css">
 		<link rel="stylesheet" href="assets/codemirror/theme/github-light.css">
 		
-	</title>
+	</head>
 <body>
 
 <!-- Your form -->
